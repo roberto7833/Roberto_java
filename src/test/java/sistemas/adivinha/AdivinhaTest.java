@@ -1,4 +1,4 @@
-package sistema.adivinha;
+package sistemas.adivinha;
 
 public class AdivinhaTest {
 }

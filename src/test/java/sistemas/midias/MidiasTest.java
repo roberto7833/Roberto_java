@@ -1,4 +1,4 @@
-package sistema.midias;
+package sistemas.midias;
 
 public class MidiasTest {
 }

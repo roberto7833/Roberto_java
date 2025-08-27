@@ -1,4 +1,4 @@
-package sistema.adivinha;
+package sistemas.adivinha;
 
 import java.util.ArrayList;
 import java.util.List;
